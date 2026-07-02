@@ -98,7 +98,7 @@ Na GPU czas uczenia został znacząco skrócony:
 
 *Rys. 7. Tabela ukazująca sume i średni czas trwania epok dla CPU i GPU.*
 
-![sredia_czas_epoki](images/sredni_czas_epok.jpg)
+![sredni_czas_epoki](images/sredni_czas_epoki.jpg)
 
 *Rys. 8. Wykress przedstawiający porównanie CPU vs GPU.*
 
