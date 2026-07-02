@@ -52,7 +52,7 @@ Model w tym wypadku przewidział klase 'frog', co nie odpowiada rzeczywistej kla
 ### Architektura GPU
 Ulepszony model CNN dla architektury GPU osiągnął wyraźnie lepszy wynik około 71.3% dokładności, a błąd wyniosł 0.82. Model wykazywał lepszą zdolność generalizacji w porównaniu do wersji CPU, co wynikało zarówno z szybszego treningu, jak i możliwości częstszego aktualizowania wag w krótszym czasie.
 
-Dla tego samego przykłądu, model jednak wskazał tą samą klasę co poprzednio, jednak pewność dla tej klasy zmalała do 0.23.
+Dla tego samego przykładu, model jednak wskazał tą samą klasę co poprzednio, jednak pewność dla tej klasy zmalała do 0.23.
 
 ![Zjęcie_kota](images/cat_test_g.jpg)
 
